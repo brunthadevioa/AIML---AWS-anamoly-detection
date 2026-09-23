@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Python
+__pycache__/
+ml-service/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Vite & Frontend build
+client/dist/
+dist/
+.cache/
+
+# Environment files
+server/.env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archive & backup files
+*.zip
+*.zip.safe
+*.tar.gz
+*.rar
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
