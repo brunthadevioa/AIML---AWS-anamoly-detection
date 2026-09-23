@@ -1,1 +1,1 @@
-# AIML---AWS-anamoly-detection
+# AIML-AWS-anamoly-detection
